@@ -1,0 +1,17 @@
+# created by eselect-repo
+
+[gentoo-zh]
+location = /var/db/repos/gentoo-zh
+sync-type = git
+sync-uri = https://github.com/gentoo-mirror/gentoo-zh.git
+
+[torbrowser]
+location = /var/db/repos/torbrowser
+sync-type = git
+sync-uri = https://github.com/gentoo-mirror/torbrowser.git
+
+[pentoo]
+location = /var/db/repos/pentoo
+sync-type = git
+sync-uri = https://github.com/gentoo-mirror/pentoo.git
+

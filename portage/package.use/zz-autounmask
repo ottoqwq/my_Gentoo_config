@@ -1,0 +1,1291 @@
+# package.use# required by dev-lang/ruby-3.0.3::gentoo
+# required by virtual/rubygems-16::gentoo[ruby_targets_ruby30]
+# required by dev-lang/ruby-2.7.5::gentoo
+# required by virtual/ruby-ssl-11::gentoo[ruby_targets_ruby27]
+# required by dev-ruby/racc-1.5.2-r1::gentoo[ruby_targets_ruby26]
+# required by dev-ruby/rdoc-6.3.3-r1::gentoo[ruby_targets_ruby27]
+# required by dev-lang/ruby-2.6.9::gentoo[rdoc]
+# required by dev-ruby/rbs-1.5.1::gentoo[ruby_targets_ruby26]
+# required by dev-ruby/typeprof-0.15.2::gentoo[ruby_targets_ruby27]
+>=dev-ruby/minitest-5.15.0 ruby_targets_ruby30
+# required by dev-lang/ruby-3.0.3::gentoo
+# required by virtual/rubygems-16::gentoo[ruby_targets_ruby30]
+# required by dev-lang/ruby-2.7.5::gentoo
+# required by virtual/ruby-ssl-11::gentoo[ruby_targets_ruby27]
+# required by dev-ruby/racc-1.5.2-r1::gentoo[ruby_targets_ruby26]
+# required by dev-ruby/rdoc-6.3.3-r1::gentoo[ruby_targets_ruby27]
+# required by dev-lang/ruby-2.6.9::gentoo[rdoc]
+# required by dev-ruby/rbs-1.5.1::gentoo[ruby_targets_ruby26]
+# required by dev-ruby/typeprof-0.15.2::gentoo[ruby_targets_ruby27]
+>=dev-ruby/power_assert-2.0.1 ruby_targets_ruby30
+# required by dev-lang/ruby-3.0.3::gentoo
+# required by virtual/rubygems-16::gentoo[ruby_targets_ruby30]
+# required by dev-lang/ruby-2.7.5::gentoo
+# required by virtual/ruby-ssl-11::gentoo[ruby_targets_ruby27]
+# required by dev-ruby/racc-1.5.2-r1::gentoo[ruby_targets_ruby26]
+# required by dev-ruby/rdoc-6.3.3-r1::gentoo[ruby_targets_ruby27]
+# required by dev-lang/ruby-2.6.9::gentoo[rdoc]
+# required by dev-ruby/rbs-1.5.1::gentoo[ruby_targets_ruby26]
+# required by dev-ruby/typeprof-0.15.2::gentoo[ruby_targets_ruby27]
+>=dev-ruby/rake-13.0.6 ruby_targets_ruby30
+# required by dev-ruby/typeprof-0.15.2::gentoo[ruby_targets_ruby30]
+# required by dev-lang/ruby-3.0.3::gentoo
+# required by virtual/rubygems-16::gentoo[ruby_targets_ruby30]
+# required by dev-lang/ruby-2.7.5::gentoo
+# required by virtual/ruby-ssl-11::gentoo[ruby_targets_ruby27]
+# required by dev-ruby/racc-1.5.2-r1::gentoo[ruby_targets_ruby26]
+# required by dev-ruby/rdoc-6.3.3-r1::gentoo[ruby_targets_ruby27]
+# required by dev-lang/ruby-2.6.9::gentoo[rdoc]
+# required by dev-ruby/rexml-3.2.5::gentoo[ruby_targets_ruby26]
+# required by dev-ruby/rss-0.2.9::gentoo[ruby_targets_ruby27]
+>=dev-ruby/rbs-1.5.1 ruby_targets_ruby30
+# required by dev-lang/ruby-3.0.3::gentoo
+# required by virtual/rubygems-16::gentoo[ruby_targets_ruby30]
+# required by dev-lang/ruby-2.7.5::gentoo
+# required by virtual/ruby-ssl-11::gentoo[ruby_targets_ruby27]
+# required by dev-ruby/racc-1.5.2-r1::gentoo[ruby_targets_ruby26]
+# required by dev-ruby/rdoc-6.3.3-r1::gentoo[ruby_targets_ruby27]
+# required by dev-lang/ruby-2.6.9::gentoo[rdoc]
+# required by dev-ruby/rbs-1.5.1::gentoo[ruby_targets_ruby26]
+# required by dev-ruby/typeprof-0.15.2::gentoo[ruby_targets_ruby27]
+>=dev-ruby/rexml-3.2.5 ruby_targets_ruby30
+# required by dev-lang/ruby-3.0.3::gentoo
+# required by virtual/rubygems-16::gentoo[ruby_targets_ruby30]
+# required by dev-lang/ruby-2.7.5::gentoo
+# required by virtual/ruby-ssl-11::gentoo[ruby_targets_ruby27]
+# required by dev-ruby/racc-1.5.2-r1::gentoo[ruby_targets_ruby26]
+# required by dev-ruby/rdoc-6.3.3-r1::gentoo[ruby_targets_ruby27]
+# required by dev-lang/ruby-2.6.9::gentoo[rdoc]
+# required by dev-ruby/rbs-1.5.1::gentoo[ruby_targets_ruby26]
+# required by dev-ruby/typeprof-0.15.2::gentoo[ruby_targets_ruby27]
+>=dev-ruby/rss-0.2.9 ruby_targets_ruby30
+# required by dev-lang/ruby-3.0.3::gentoo
+# required by virtual/rubygems-16::gentoo[ruby_targets_ruby30]
+# required by dev-lang/ruby-2.7.5::gentoo
+# required by virtual/ruby-ssl-11::gentoo[ruby_targets_ruby27]
+# required by dev-ruby/racc-1.5.2-r1::gentoo[ruby_targets_ruby26]
+# required by dev-ruby/rdoc-6.3.3-r1::gentoo[ruby_targets_ruby27]
+# required by dev-lang/ruby-2.6.9::gentoo[rdoc]
+# required by dev-ruby/rbs-1.5.1::gentoo[ruby_targets_ruby26]
+# required by dev-ruby/typeprof-0.15.2::gentoo[ruby_targets_ruby27]
+>=dev-ruby/test-unit-3.5.3 ruby_targets_ruby30
+# required by dev-lang/ruby-3.0.3::gentoo
+# required by virtual/rubygems-16::gentoo[ruby_targets_ruby30]
+# required by dev-lang/ruby-2.7.5::gentoo
+# required by virtual/ruby-ssl-11::gentoo[ruby_targets_ruby27]
+# required by dev-ruby/racc-1.5.2-r1::gentoo[ruby_targets_ruby26]
+# required by dev-ruby/rdoc-6.3.3-r1::gentoo[ruby_targets_ruby27]
+# required by dev-lang/ruby-2.6.9::gentoo[rdoc]
+# required by dev-ruby/rbs-1.5.1::gentoo[ruby_targets_ruby26]
+>=dev-ruby/typeprof-0.15.2 ruby_targets_ruby30
+# required by dev-lang/ruby-3.0.3::gentoo
+# required by virtual/rubygems-16::gentoo[ruby_targets_ruby30]
+# required by dev-lang/ruby-2.7.5::gentoo
+# required by virtual/ruby-ssl-11::gentoo[ruby_targets_ruby27]
+# required by dev-ruby/racc-1.5.2-r1::gentoo[ruby_targets_ruby26]
+# required by dev-ruby/rdoc-6.3.3-r1::gentoo[ruby_targets_ruby27]
+# required by dev-lang/ruby-2.6.9::gentoo[rdoc]
+# required by dev-ruby/rbs-1.5.1::gentoo[ruby_targets_ruby26]
+# required by dev-ruby/typeprof-0.15.2::gentoo[ruby_targets_ruby27]
+>=dev-ruby/bundler-2.2.31 ruby_targets_ruby30
+# required by dev-lang/ruby-3.0.3::gentoo
+# required by virtual/rubygems-16::gentoo[ruby_targets_ruby30]
+# required by dev-lang/ruby-2.7.5::gentoo
+# required by virtual/ruby-ssl-11::gentoo[ruby_targets_ruby27]
+# required by dev-ruby/racc-1.5.2-r1::gentoo[ruby_targets_ruby26]
+# required by dev-ruby/rdoc-6.3.3-r1::gentoo[ruby_targets_ruby27]
+# required by dev-lang/ruby-2.6.9::gentoo[rdoc]
+# required by dev-ruby/rbs-1.5.1::gentoo[ruby_targets_ruby26]
+# required by dev-ruby/typeprof-0.15.2::gentoo[ruby_targets_ruby27]
+>=dev-ruby/did_you_mean-1.6.1 ruby_targets_ruby30
+# required by dev-lang/ruby-3.0.3::gentoo
+# required by virtual/rubygems-16::gentoo[ruby_targets_ruby30]
+# required by dev-lang/ruby-2.7.5::gentoo
+# required by virtual/ruby-ssl-11::gentoo[ruby_targets_ruby27]
+# required by dev-ruby/racc-1.5.2-r1::gentoo[ruby_targets_ruby26]
+# required by dev-ruby/rdoc-6.3.3-r1::gentoo[ruby_targets_ruby27]
+# required by dev-lang/ruby-2.6.9::gentoo[rdoc]
+# required by dev-ruby/rbs-1.5.1::gentoo[ruby_targets_ruby26]
+# required by dev-ruby/typeprof-0.15.2::gentoo[ruby_targets_ruby27]
+>=dev-ruby/json-2.6.1 ruby_targets_ruby30
+# required by dev-lang/ruby-3.0.3::gentoo[rdoc]
+# required by virtual/rubygems-16::gentoo[ruby_targets_ruby30]
+# required by dev-lang/ruby-2.7.5::gentoo
+# required by virtual/ruby-ssl-11::gentoo[ruby_targets_ruby27]
+# required by dev-ruby/racc-1.5.2-r1::gentoo[ruby_targets_ruby26]
+>=dev-ruby/rdoc-6.3.3-r1 ruby_targets_ruby30
+# required by dev-ruby/rbs-1.5.1::gentoo[-test,ruby_targets_ruby30]
+# required by dev-ruby/typeprof-0.15.2::gentoo[ruby_targets_ruby27]
+# required by dev-lang/ruby-3.0.3::gentoo
+# required by dev-ruby/rexml-3.2.5::gentoo[ruby_targets_ruby30]
+# required by dev-ruby/rss-0.2.9::gentoo[ruby_targets_ruby27]
+>=virtual/rubygems-16 ruby_targets_ruby30
+# required by virtual/rubygems-16::gentoo[ruby_targets_ruby30]
+# required by dev-lang/ruby-2.7.5::gentoo
+# required by virtual/ruby-ssl-11::gentoo[ruby_targets_ruby27]
+# required by dev-ruby/racc-1.5.2-r1::gentoo[ruby_targets_ruby26]
+# required by dev-ruby/rdoc-6.3.3-r1::gentoo[ruby_targets_ruby27]
+# required by dev-lang/ruby-3.0.3::gentoo[rdoc]
+# required by dev-ruby/rbs-1.5.1::gentoo[ruby_targets_ruby30]
+# required by dev-ruby/typeprof-0.15.2::gentoo[ruby_targets_ruby27]
+>=dev-ruby/rubygems-3.2.22 ruby_targets_ruby30
+# required by dev-ruby/rdoc-6.3.3-r1::gentoo[ruby_targets_ruby30]
+# required by dev-lang/ruby-3.0.3::gentoo[rdoc]
+# required by virtual/ruby-ssl-11::gentoo[ruby_targets_ruby30]
+# required by dev-ruby/racc-1.5.2-r1::gentoo[ruby_targets_ruby26]
+>=dev-ruby/kpeg-1.3.1 ruby_targets_ruby30
+# required by dev-ruby/rdoc-6.3.3-r1::gentoo[ruby_targets_ruby30]
+# required by dev-lang/ruby-3.0.3::gentoo[rdoc]
+# required by virtual/ruby-ssl-11::gentoo[ruby_targets_ruby30]
+# required by dev-ruby/rubygems-3.2.22::gentoo
+# required by virtual/rubygems-16::gentoo[ruby_targets_ruby26]
+# required by dev-lang/ruby-2.6.9::gentoo
+# required by dev-ruby/rbs-1.5.1::gentoo[ruby_targets_ruby26]
+# required by dev-ruby/typeprof-0.15.2::gentoo[ruby_targets_ruby30]
+>=dev-ruby/racc-1.5.2-r1 ruby_targets_ruby30
+# required by dev-ruby/rubygems-3.2.22::gentoo[ruby_targets_ruby30]
+# required by virtual/rubygems-16::gentoo[ruby_targets_ruby26]
+# required by dev-lang/ruby-2.6.9::gentoo
+# required by dev-ruby/rbs-1.5.1::gentoo[ruby_targets_ruby26]
+# required by dev-ruby/typeprof-0.15.2::gentoo[ruby_targets_ruby30]
+# required by dev-lang/ruby-3.0.3::gentoo
+# required by dev-ruby/rexml-3.2.5::gentoo[ruby_targets_ruby30]
+# required by dev-ruby/rss-0.2.9::gentoo[ruby_targets_ruby30]
+>=virtual/ruby-ssl-11 ruby_targets_ruby30
+# required by net-im/telegram-desktop-3.4.3::gentoo
+# required by telegram-desktop (argument)
+>=media-video/ffmpeg-4.4.1-r1 opus
+# required by net-im/telegram-desktop-3.4.3::gentoo
+# required by telegram-desktop (argument)
+>=sys-libs/zlib-1.2.11-r4 minizip
+# required by www-client/chromium-98.0.4758.54::gentoo
+# required by chromium (argument)
+>=net-libs/nodejs-16.13.1 inspector
+# required by www-client/firefox-96.0.1::gentoo[system-libvpx]
+# required by firefox (argument)
+>=media-libs/libvpx-1.11.0 postproc
+# required by app-shells/zsh-theme-powerlevel10k-1.15.0-r1::gentoo-zh
+# required by zsh-theme-powerlevel10k (argument)
+>=app-shells/gitstatus-1.5.3-r1 zsh-completion
+# required by media-libs/libsdl2-2.0.20-r1::gentoo[X]
+# required by media-sound/mpg123-1.29.3::gentoo[sdl]
+# required by media-plugins/gst-plugins-mpg123-1.18.4::gentoo
+# required by media-plugins/gst-plugins-meta-1.18.4::gentoo[mp3]
+# required by app-emulation/wine-staging-7.1::gentoo[gstreamer]
+# required by wine-staging (argument)
+>=x11-libs/libXcursor-1.2.0 abi_x86_32
+# required by x11-libs/libXrandr-1.5.2::gentoo
+# required by media-libs/libsdl-1.2.15_p20210224::gentoo[X]
+# required by media-libs/libmpeg2-0.5.1-r3::gentoo[sdl]
+# required by media-plugins/gst-plugins-mpeg2dec-1.18.4::gentoo
+# required by media-plugins/gst-plugins-meta-1.18.4::gentoo[mpeg,dvd,-vcd]
+# required by app-emulation/wine-staging-7.1::gentoo[gstreamer]
+# required by wine-staging (argument)
+>=x11-libs/libXext-1.3.4 abi_x86_32
+# required by x11-libs/libXcursor-1.2.0::gentoo
+# required by media-libs/libsdl2-2.0.20-r1::gentoo[X]
+# required by media-sound/mpg123-1.29.3::gentoo[sdl]
+# required by media-plugins/gst-plugins-mpg123-1.18.4::gentoo
+# required by media-plugins/gst-plugins-meta-1.18.4::gentoo[mp3]
+# required by app-emulation/wine-staging-7.1::gentoo[gstreamer]
+# required by wine-staging (argument)
+>=x11-libs/libXfixes-6.0.0 abi_x86_32
+# required by media-libs/libsdl2-2.0.20-r1::gentoo[X]
+# required by media-sound/mpg123-1.29.3::gentoo[sdl]
+# required by media-plugins/gst-plugins-mpg123-1.18.4::gentoo
+# required by media-plugins/gst-plugins-meta-1.18.4::gentoo[mp3]
+# required by app-emulation/wine-staging-7.1::gentoo[gstreamer]
+# required by wine-staging (argument)
+>=x11-libs/libXrandr-1.5.2 abi_x86_32
+# required by media-libs/libsdl2-2.0.20-r1::gentoo[X]
+# required by media-sound/mpg123-1.29.3::gentoo[sdl]
+# required by media-plugins/gst-plugins-mpg123-1.18.4::gentoo
+# required by media-plugins/gst-plugins-meta-1.18.4::gentoo[mp3]
+# required by app-emulation/wine-staging-7.1::gentoo[gstreamer]
+# required by wine-staging (argument)
+>=x11-libs/libXi-1.8 abi_x86_32
+# required by media-libs/libsdl2-2.0.20-r1::gentoo[X]
+# required by media-sound/mpg123-1.29.3::gentoo[sdl]
+# required by media-plugins/gst-plugins-mpg123-1.18.4::gentoo
+# required by media-plugins/gst-plugins-meta-1.18.4::gentoo[mp3]
+# required by app-emulation/wine-staging-7.1::gentoo[gstreamer]
+# required by wine-staging (argument)
+>=x11-libs/libXxf86vm-1.1.4-r2 abi_x86_32
+# required by media-plugins/alsa-plugins-1.2.6::gentoo
+# required by media-sound/pulseaudio-15.0-r2::gentoo[alsa,alsa-plugin]
+# required by media-libs/libsdl-1.2.15_p20210224::gentoo[pulseaudio]
+# required by media-libs/libmpeg2-0.5.1-r3::gentoo[sdl]
+# required by media-plugins/gst-plugins-mpeg2dec-1.18.4::gentoo
+# required by media-plugins/gst-plugins-meta-1.18.4::gentoo[mpeg,dvd,-vcd]
+# required by app-emulation/wine-staging-7.1::gentoo[gstreamer]
+# required by wine-staging (argument)
+>=media-libs/alsa-lib-1.2.6.1 abi_x86_32
+# required by app-emulation/wine-staging-7.1::gentoo[cups]
+# required by wine-staging (argument)
+>=net-print/cups-2.3.3_p2-r3 abi_x86_32
+# required by x11-libs/pango-1.50.3::gentoo
+# required by media-libs/gst-plugins-base-1.18.4-r1::gentoo[pango]
+# required by media-plugins/gst-plugins-cdparanoia-1.18.4::gentoo
+# required by media-plugins/gst-plugins-meta-1.18.4::gentoo[cdda]
+# required by app-emulation/wine-staging-7.1::gentoo[gstreamer]
+# required by wine-staging (argument)
+>=media-libs/fontconfig-2.13.1-r2 abi_x86_32
+# required by media-libs/gst-plugins-bad-1.18.4-r2::gentoo
+# required by media-plugins/gst-plugins-faad-1.18.4::gentoo
+# required by media-plugins/gst-plugins-meta-1.18.4::gentoo[aac]
+# required by app-emulation/wine-staging-7.1::gentoo[gstreamer]
+# required by wine-staging (argument)
+>=media-libs/gstreamer-1.18.4 abi_x86_32
+# required by app-emulation/wine-staging-7.1::gentoo[gstreamer]
+# required by wine-staging (argument)
+>=media-plugins/gst-plugins-meta-1.18.4 abi_x86_32
+# required by app-emulation/wine-staging-7.1::gentoo[nls]
+# required by wine-staging (argument)
+>=sys-devel/gettext-0.21-r1 abi_x86_32
+# required by media-video/ffmpeg-4.4.1-r1::gentoo[pulseaudio]
+# required by media-plugins/gst-plugins-libav-1.18.4::gentoo
+# required by media-plugins/gst-plugins-meta-1.18.4::gentoo[ffmpeg]
+# required by app-emulation/wine-staging-7.1::gentoo[gstreamer]
+# required by wine-staging (argument)
+>=media-sound/pulseaudio-15.0-r2 abi_x86_32
+# required by media-video/ffmpeg-4.4.1-r1::gentoo[sdl]
+# required by media-plugins/gst-plugins-libav-1.18.4::gentoo
+# required by media-plugins/gst-plugins-meta-1.18.4::gentoo[ffmpeg]
+# required by app-emulation/wine-staging-7.1::gentoo[gstreamer]
+# required by wine-staging (argument)
+>=media-libs/libsdl2-2.0.20-r1 abi_x86_32 haptic
+# required by net-print/cups-2.3.3_p2-r3::gentoo[ssl]
+# required by app-emulation/wine-staging-7.1::gentoo[cups]
+# required by wine-staging (argument)
+>=net-libs/gnutls-3.7.3 abi_x86_32
+# required by app-emulation/wine-staging-7.1::gentoo
+# required by wine-staging (argument)
+>=sys-apps/attr-2.5.1 abi_x86_32
+# required by x11-libs/pango-1.50.3::gentoo
+# required by media-libs/gst-plugins-base-1.18.4-r1::gentoo[pango]
+# required by media-plugins/gst-plugins-cdparanoia-1.18.4::gentoo
+# required by media-plugins/gst-plugins-meta-1.18.4::gentoo[cdda]
+# required by app-emulation/wine-staging-7.1::gentoo[gstreamer]
+# required by wine-staging (argument)
+>=media-libs/freetype-2.11.1 abi_x86_32
+# required by net-print/cups-2.3.3_p2-r3::gentoo[dbus]
+# required by app-emulation/wine-staging-7.1::gentoo[cups]
+# required by wine-staging (argument)
+>=sys-apps/dbus-1.12.20-r4 abi_x86_32
+# required by app-emulation/wine-staging-7.1::gentoo[unwind]
+# required by wine-staging (argument)
+>=sys-libs/libunwind-1.6.2 abi_x86_32
+# required by app-emulation/wine-staging-7.1::gentoo[xcomposite]
+# required by wine-staging (argument)
+>=x11-libs/libXcomposite-0.4.5 abi_x86_32
+# required by app-emulation/wine-staging-7.1::gentoo[gecko]
+# required by wine-staging (argument)
+>=app-emulation/wine-gecko-2.47.2 abi_x86_32
+# required by x11-libs/libXfixes-6.0.0::gentoo
+# required by x11-libs/libXcursor-1.2.0::gentoo
+# required by media-libs/libsdl2-2.0.20-r1::gentoo[X]
+# required by media-sound/mpg123-1.29.3::gentoo[sdl]
+# required by media-plugins/gst-plugins-mpg123-1.18.4::gentoo
+# required by media-plugins/gst-plugins-meta-1.18.4::gentoo[mp3]
+# required by app-emulation/wine-staging-7.1::gentoo[gstreamer]
+# required by wine-staging (argument)
+>=x11-libs/libX11-1.7.3 abi_x86_32
+# required by media-libs/mesa-21.3.5::gentoo[X]
+# required by virtual/opengl-7.0-r2::gentoo
+# required by app-emulation/wine-staging-7.1::gentoo[opengl]
+# required by wine-staging (argument)
+>=x11-libs/libxcb-1.14 abi_x86_32
+# required by x11-libs/libxcb-1.14::gentoo
+# required by x11-libs/cairo-1.16.0-r5::gentoo[X]
+# required by media-libs/harfbuzz-3.2.0::gentoo[cairo]
+# required by x11-libs/pango-1.50.3::gentoo
+# required by media-libs/gst-plugins-base-1.18.4-r1::gentoo[pango]
+# required by media-plugins/gst-plugins-cdparanoia-1.18.4::gentoo
+# required by media-plugins/gst-plugins-meta-1.18.4::gentoo[cdda]
+# required by app-emulation/wine-staging-7.1::gentoo[gstreamer]
+# required by wine-staging (argument)
+>=x11-libs/libXau-1.0.9-r1 abi_x86_32
+# required by x11-libs/libxcb-1.14::gentoo
+# required by x11-libs/cairo-1.16.0-r5::gentoo[X]
+# required by media-libs/harfbuzz-3.2.0::gentoo[cairo]
+# required by x11-libs/pango-1.50.3::gentoo
+# required by media-libs/gst-plugins-base-1.18.4-r1::gentoo[pango]
+# required by media-plugins/gst-plugins-cdparanoia-1.18.4::gentoo
+# required by media-plugins/gst-plugins-meta-1.18.4::gentoo[cdda]
+# required by app-emulation/wine-staging-7.1::gentoo[gstreamer]
+# required by wine-staging (argument)
+>=x11-libs/libXdmcp-1.1.3 abi_x86_32
+# required by x11-libs/libxcb-1.14::gentoo
+# required by x11-libs/cairo-1.16.0-r5::gentoo[X]
+# required by media-libs/harfbuzz-3.2.0::gentoo[cairo]
+# required by x11-libs/pango-1.50.3::gentoo
+# required by media-libs/gst-plugins-base-1.18.4-r1::gentoo[pango]
+# required by media-plugins/gst-plugins-cdparanoia-1.18.4::gentoo
+# required by media-plugins/gst-plugins-meta-1.18.4::gentoo[cdda]
+# required by app-emulation/wine-staging-7.1::gentoo[gstreamer]
+# required by wine-staging (argument)
+>=x11-base/xcb-proto-1.14.1 abi_x86_32
+# required by sys-devel/llvm-13.0.0::gentoo
+# required by media-libs/mesa-21.3.5::gentoo[-video_cards_r600,llvm,-opencl,video_cards_radeon,gallium,video_cards_radeonsi]
+# required by virtual/opengl-7.0-r2::gentoo
+# required by app-emulation/wine-staging-7.1::gentoo[opengl]
+# required by wine-staging (argument)
+>=sys-libs/zlib-1.2.11-r4 abi_x86_32
+# required by dev-libs/elfutils-0.186::gentoo[bzip2]
+# required by virtual/libelf-3::gentoo
+# required by media-libs/mesa-21.3.5::gentoo[-video_cards_r600,llvm,-opencl,video_cards_radeon,gallium,video_cards_radeonsi]
+# required by virtual/opengl-7.0-r2::gentoo
+# required by app-emulation/wine-staging-7.1::gentoo[opengl]
+# required by wine-staging (argument)
+>=app-arch/bzip2-1.0.8-r1 abi_x86_32
+# required by x11-libs/gdk-pixbuf-2.42.6-r1::gentoo
+# required by gnome-base/librsvg-2.52.5::gentoo
+# required by media-video/ffmpeg-4.4.1-r1::gentoo[svg]
+# required by media-plugins/gst-plugins-libav-1.18.4::gentoo
+# required by media-plugins/gst-plugins-meta-1.18.4::gentoo[ffmpeg]
+# required by app-emulation/wine-staging-7.1::gentoo[gstreamer]
+# required by wine-staging (argument)
+>=media-libs/libpng-1.6.37-r2 abi_x86_32
+# required by net-libs/gnutls-3.7.3::gentoo
+# required by net-print/cups-2.3.3_p2-r3::gentoo[ssl]
+# required by app-emulation/wine-staging-7.1::gentoo[cups]
+# required by wine-staging (argument)
+>=dev-libs/libtasn1-4.18.0 abi_x86_32
+# required by net-dns/libidn2-2.3.2::gentoo
+# required by net-libs/gnutls-3.7.3::gentoo[idn]
+# required by net-print/cups-2.3.3_p2-r3::gentoo[ssl]
+# required by app-emulation/wine-staging-7.1::gentoo[cups]
+# required by wine-staging (argument)
+>=dev-libs/libunistring-0.9.10-r1 abi_x86_32
+# required by net-libs/gnutls-3.7.3::gentoo
+# required by net-print/cups-2.3.3_p2-r3::gentoo[ssl]
+# required by app-emulation/wine-staging-7.1::gentoo[cups]
+# required by wine-staging (argument)
+>=dev-libs/nettle-3.7.3 abi_x86_32
+# required by dev-libs/nettle-3.7.3::gentoo[gmp]
+# required by net-libs/gnutls-3.7.3::gentoo
+# required by net-print/cups-2.3.3_p2-r3::gentoo[ssl]
+# required by app-emulation/wine-staging-7.1::gentoo[cups]
+# required by wine-staging (argument)
+>=dev-libs/gmp-6.2.1-r2 abi_x86_32
+# required by net-libs/gnutls-3.7.3::gentoo[idn]
+# required by net-print/cups-2.3.3_p2-r3::gentoo[ssl]
+# required by app-emulation/wine-staging-7.1::gentoo[cups]
+# required by wine-staging (argument)
+>=net-dns/libidn2-2.3.2 abi_x86_32
+# required by x11-libs/cairo-1.16.0-r5::gentoo[opengl]
+# required by media-libs/harfbuzz-3.2.0::gentoo[cairo]
+# required by x11-libs/pango-1.50.3::gentoo
+# required by media-libs/gst-plugins-base-1.18.4-r1::gentoo[pango]
+# required by media-plugins/gst-plugins-cdparanoia-1.18.4::gentoo
+# required by media-plugins/gst-plugins-meta-1.18.4::gentoo[cdda]
+# required by app-emulation/wine-staging-7.1::gentoo[gstreamer]
+# required by wine-staging (argument)
+>=media-libs/mesa-21.3.5 abi_x86_32
+# required by media-libs/libsdl2-2.0.20-r1::gentoo[wayland]
+# required by media-sound/mpg123-1.29.3::gentoo[sdl]
+# required by media-plugins/gst-plugins-mpg123-1.18.4::gentoo
+# required by media-plugins/gst-plugins-meta-1.18.4::gentoo[mp3]
+# required by app-emulation/wine-staging-7.1::gentoo[gstreamer]
+# required by wine-staging (argument)
+>=dev-libs/wayland-1.20.0 abi_x86_32
+# required by media-libs/libsdl2-2.0.20-r1::gentoo[wayland]
+# required by media-sound/mpg123-1.29.3::gentoo[sdl]
+# required by media-plugins/gst-plugins-mpg123-1.18.4::gentoo
+# required by media-plugins/gst-plugins-meta-1.18.4::gentoo[mp3]
+# required by app-emulation/wine-staging-7.1::gentoo[gstreamer]
+# required by wine-staging (argument)
+>=x11-libs/libxkbcommon-1.3.1 abi_x86_32
+# required by gnome-base/librsvg-2.52.5::gentoo
+# required by media-video/ffmpeg-4.4.1-r1::gentoo[svg]
+# required by media-plugins/gst-plugins-libav-1.18.4::gentoo
+# required by media-plugins/gst-plugins-meta-1.18.4::gentoo[ffmpeg]
+# required by app-emulation/wine-staging-7.1::gentoo[gstreamer]
+# required by wine-staging (argument)
+>=dev-libs/libxml2-2.9.12-r5 abi_x86_32
+# required by media-libs/harfbuzz-3.2.0::gentoo[icu]
+# required by x11-libs/pango-1.50.3::gentoo
+# required by media-libs/gst-plugins-base-1.18.4-r1::gentoo[pango]
+# required by media-plugins/gst-plugins-cdparanoia-1.18.4::gentoo
+# required by media-plugins/gst-plugins-meta-1.18.4::gentoo[cdda]
+# required by app-emulation/wine-staging-7.1::gentoo[gstreamer]
+# required by wine-staging (argument)
+>=dev-libs/icu-70.1-r1 abi_x86_32
+# required by dev-libs/wayland-1.20.0::gentoo
+# required by media-libs/gst-plugins-base-1.18.4-r1::gentoo[wayland,opengl,-gles2]
+# required by media-plugins/gst-plugins-cdparanoia-1.18.4::gentoo
+# required by media-plugins/gst-plugins-meta-1.18.4::gentoo[cdda]
+# required by app-emulation/wine-staging-7.1::gentoo[gstreamer]
+# required by wine-staging (argument)
+>=dev-libs/expat-2.4.3 abi_x86_32
+# required by sys-devel/llvm-13.0.0::gentoo[libffi]
+# required by media-libs/mesa-21.3.5::gentoo[-video_cards_r600,llvm,-opencl,video_cards_radeon,gallium,video_cards_radeonsi]
+# required by virtual/opengl-7.0-r2::gentoo
+# required by app-emulation/wine-staging-7.1::gentoo[opengl]
+# required by wine-staging (argument)
+>=dev-libs/libffi-3.4.2-r1 abi_x86_32
+# required by media-libs/mesa-21.3.5::gentoo
+# required by virtual/opengl-7.0-r2::gentoo
+# required by app-emulation/wine-staging-7.1::gentoo[opengl]
+# required by wine-staging (argument)
+>=media-libs/libglvnd-1.4.0 abi_x86_32
+# required by media-libs/mesa-21.3.5::gentoo
+# required by virtual/opengl-7.0-r2::gentoo
+# required by app-emulation/wine-staging-7.1::gentoo[opengl]
+# required by wine-staging (argument)
+>=x11-libs/libdrm-2.4.109 abi_x86_32
+# required by media-libs/mesa-21.3.5::gentoo[X]
+# required by virtual/opengl-7.0-r2::gentoo
+# required by app-emulation/wine-staging-7.1::gentoo[opengl]
+# required by wine-staging (argument)
+>=x11-libs/libxshmfence-1.3-r2 abi_x86_32
+# required by sys-apps/systemd-250.3::gentoo[zstd]
+# required by virtual/libudev-232-r5::gentoo
+# required by dev-libs/libusb-1.0.24-r2::gentoo[udev]
+# required by virtual/libusb-1-r2::gentoo
+# required by app-emulation/wine-staging-7.1::gentoo[usb]
+# required by wine-staging (argument)
+>=app-arch/zstd-1.5.2 abi_x86_32
+# required by media-libs/mesa-21.3.5::gentoo[-video_cards_r600,llvm,-opencl,video_cards_radeon,gallium,video_cards_radeonsi]
+# required by virtual/opengl-7.0-r2::gentoo
+# required by app-emulation/wine-staging-7.1::gentoo[opengl]
+# required by wine-staging (argument)
+>=sys-devel/llvm-13.0.0 abi_x86_32
+# required by sys-devel/llvm-13.0.0::gentoo[ncurses]
+# required by media-libs/mesa-21.3.5::gentoo[-video_cards_r600,llvm,-opencl,video_cards_radeon,gallium,video_cards_radeonsi]
+# required by virtual/opengl-7.0-r2::gentoo
+# required by app-emulation/wine-staging-7.1::gentoo[opengl]
+# required by wine-staging (argument)
+>=sys-libs/ncurses-6.3_p20211106 abi_x86_32
+# required by sys-libs/ncurses-6.3_p20211106::gentoo[gpm]
+# required by sys-devel/llvm-13.0.0::gentoo[ncurses]
+# required by media-libs/mesa-21.3.5::gentoo[-video_cards_r600,llvm,-opencl,video_cards_radeon,gallium,video_cards_radeonsi]
+# required by virtual/opengl-7.0-r2::gentoo
+# required by app-emulation/wine-staging-7.1::gentoo[opengl]
+# required by wine-staging (argument)
+>=sys-libs/gpm-1.20.7-r4 abi_x86_32
+# required by x11-libs/libdrm-2.4.109::gentoo[video_cards_intel]
+# required by media-libs/gst-plugins-base-1.18.4-r1::gentoo[opengl,-gles2,egl]
+# required by media-plugins/gst-plugins-cdparanoia-1.18.4::gentoo
+# required by media-plugins/gst-plugins-meta-1.18.4::gentoo[cdda]
+# required by app-emulation/wine-staging-7.1::gentoo[gstreamer]
+# required by wine-staging (argument)
+>=x11-libs/libpciaccess-0.16-r1 abi_x86_32
+# required by media-sound/pulseaudio-15.0-r2::gentoo
+# required by media-libs/libsdl-1.2.15_p20210224::gentoo[pulseaudio]
+# required by media-libs/libmpeg2-0.5.1-r3::gentoo[sdl]
+# required by media-plugins/gst-plugins-mpeg2dec-1.18.4::gentoo
+# required by media-plugins/gst-plugins-meta-1.18.4::gentoo[mpeg,dvd,-vcd]
+# required by app-emulation/wine-staging-7.1::gentoo[gstreamer]
+# required by wine-staging (argument)
+>=media-libs/libsndfile-1.0.31 abi_x86_32
+# required by media-sound/pulseaudio-15.0-r2::gentoo
+# required by media-libs/libsdl-1.2.15_p20210224::gentoo[pulseaudio]
+# required by media-libs/libmpeg2-0.5.1-r3::gentoo[sdl]
+# required by media-plugins/gst-plugins-mpeg2dec-1.18.4::gentoo
+# required by media-plugins/gst-plugins-meta-1.18.4::gentoo[mpeg,dvd,-vcd]
+# required by app-emulation/wine-staging-7.1::gentoo[gstreamer]
+# required by wine-staging (argument)
+>=media-libs/speexdsp-1.2.0 abi_x86_32
+# required by media-sound/pulseaudio-15.0-r2::gentoo[asyncns]
+# required by media-libs/libsdl-1.2.15_p20210224::gentoo[pulseaudio]
+# required by media-libs/libmpeg2-0.5.1-r3::gentoo[sdl]
+# required by media-plugins/gst-plugins-mpeg2dec-1.18.4::gentoo
+# required by media-plugins/gst-plugins-meta-1.18.4::gentoo[mpeg,dvd,-vcd]
+# required by app-emulation/wine-staging-7.1::gentoo[gstreamer]
+# required by wine-staging (argument)
+>=net-libs/libasyncns-0.8-r4 abi_x86_32
+# required by media-plugins/gst-plugins-libav-1.18.4::gentoo
+# required by media-plugins/gst-plugins-meta-1.18.4::gentoo[ffmpeg]
+# required by app-emulation/wine-staging-7.1::gentoo[gstreamer]
+# required by wine-staging (argument)
+>=dev-libs/glib-2.70.3 abi_x86_32
+# required by media-sound/pulseaudio-15.0-r2::gentoo[alsa,alsa-plugin]
+# required by media-libs/libsdl-1.2.15_p20210224::gentoo[pulseaudio]
+# required by media-libs/libmpeg2-0.5.1-r3::gentoo[sdl]
+# required by media-plugins/gst-plugins-mpeg2dec-1.18.4::gentoo
+# required by media-plugins/gst-plugins-meta-1.18.4::gentoo[mpeg,dvd,-vcd]
+# required by app-emulation/wine-staging-7.1::gentoo[gstreamer]
+# required by wine-staging (argument)
+>=media-plugins/alsa-plugins-1.2.6 abi_x86_32
+# required by media-plugins/alsa-plugins-1.2.6::gentoo[ffmpeg]
+# required by media-sound/pulseaudio-15.0-r2::gentoo[alsa,alsa-plugin]
+# required by media-libs/libsdl-1.2.15_p20210224::gentoo[pulseaudio]
+# required by media-libs/libmpeg2-0.5.1-r3::gentoo[sdl]
+# required by media-plugins/gst-plugins-mpeg2dec-1.18.4::gentoo
+# required by media-plugins/gst-plugins-meta-1.18.4::gentoo[mpeg,dvd,-vcd]
+# required by app-emulation/wine-staging-7.1::gentoo[gstreamer]
+# required by wine-staging (argument)
+>=media-video/ffmpeg-4.4.1-r1 abi_x86_32
+# required by media-video/ffmpeg-4.4.1-r1::gentoo[dav1d]
+# required by media-plugins/gst-plugins-libav-1.18.4::gentoo
+# required by media-plugins/gst-plugins-meta-1.18.4::gentoo[ffmpeg]
+# required by app-emulation/wine-staging-7.1::gentoo[gstreamer]
+# required by wine-staging (argument)
+>=media-libs/dav1d-0.9.2 abi_x86_32
+# required by media-video/ffmpeg-4.4.1-r1::gentoo[mp3,encode]
+# required by media-plugins/gst-plugins-libav-1.18.4::gentoo
+# required by media-plugins/gst-plugins-meta-1.18.4::gentoo[ffmpeg]
+# required by app-emulation/wine-staging-7.1::gentoo[gstreamer]
+# required by wine-staging (argument)
+>=media-sound/lame-3.100-r3 abi_x86_32
+# required by media-plugins/gst-plugins-x264-1.18.4::gentoo
+# required by media-plugins/gst-plugins-meta-1.18.4::gentoo[x264]
+# required by app-emulation/wine-staging-7.1::gentoo[gstreamer]
+# required by wine-staging (argument)
+>=media-libs/x264-0.0.20190903-r1 abi_x86_32
+# required by media-video/ffmpeg-4.4.1-r1::gentoo[xvid,encode]
+# required by media-plugins/gst-plugins-libav-1.18.4::gentoo
+# required by media-plugins/gst-plugins-meta-1.18.4::gentoo[ffmpeg]
+# required by app-emulation/wine-staging-7.1::gentoo[gstreamer]
+# required by wine-staging (argument)
+>=media-libs/xvid-1.3.7 abi_x86_32
+# required by media-video/ffmpeg-4.4.1-r1::gentoo[opus]
+# required by media-plugins/gst-plugins-libav-1.18.4::gentoo
+# required by media-plugins/gst-plugins-meta-1.18.4::gentoo[ffmpeg]
+# required by app-emulation/wine-staging-7.1::gentoo[gstreamer]
+# required by wine-staging (argument)
+>=media-libs/opus-1.3.1-r2 abi_x86_32
+# required by media-video/ffmpeg-4.4.1-r1::gentoo[ssh]
+# required by media-plugins/gst-plugins-libav-1.18.4::gentoo
+# required by media-plugins/gst-plugins-meta-1.18.4::gentoo[ffmpeg]
+# required by app-emulation/wine-staging-7.1::gentoo[gstreamer]
+# required by wine-staging (argument)
+>=net-libs/libssh-0.9.6 abi_x86_32
+# required by media-video/ffmpeg-4.4.1-r1::gentoo[svg]
+# required by media-plugins/gst-plugins-libav-1.18.4::gentoo
+# required by media-plugins/gst-plugins-meta-1.18.4::gentoo[ffmpeg]
+# required by app-emulation/wine-staging-7.1::gentoo[gstreamer]
+# required by wine-staging (argument)
+>=gnome-base/librsvg-2.52.5 abi_x86_32
+# required by gnome-base/librsvg-2.52.5::gentoo
+# required by media-video/ffmpeg-4.4.1-r1::gentoo[svg]
+# required by media-plugins/gst-plugins-libav-1.18.4::gentoo
+# required by media-plugins/gst-plugins-meta-1.18.4::gentoo[ffmpeg]
+# required by app-emulation/wine-staging-7.1::gentoo[gstreamer]
+# required by wine-staging (argument)
+>=x11-libs/cairo-1.16.0-r5 abi_x86_32
+# required by media-libs/libtheora-1.1.1-r2::gentoo[encode]
+# required by media-libs/gst-plugins-base-1.18.4-r1::gentoo[theora]
+# required by media-plugins/gst-plugins-cdparanoia-1.18.4::gentoo
+# required by media-plugins/gst-plugins-meta-1.18.4::gentoo[cdda]
+# required by app-emulation/wine-staging-7.1::gentoo[gstreamer]
+# required by wine-staging (argument)
+>=media-libs/libvorbis-1.3.7 abi_x86_32
+# required by media-libs/libvorbis-1.3.7::gentoo
+# required by media-libs/libtheora-1.1.1-r2::gentoo[encode]
+# required by media-libs/gst-plugins-base-1.18.4-r1::gentoo[theora]
+# required by media-plugins/gst-plugins-cdparanoia-1.18.4::gentoo
+# required by media-plugins/gst-plugins-meta-1.18.4::gentoo[cdda]
+# required by app-emulation/wine-staging-7.1::gentoo[gstreamer]
+# required by wine-staging (argument)
+>=media-libs/libogg-1.3.5 abi_x86_32
+# required by media-video/ffmpeg-4.4.1-r1::gentoo[X]
+# required by media-plugins/gst-plugins-libav-1.18.4::gentoo
+# required by media-plugins/gst-plugins-meta-1.18.4::gentoo[ffmpeg]
+# required by app-emulation/wine-staging-7.1::gentoo[gstreamer]
+# required by wine-staging (argument)
+>=x11-libs/libXv-1.0.11-r2 abi_x86_32
+# required by x11-libs/cairo-1.16.0-r5::gentoo
+# required by media-libs/harfbuzz-3.2.0::gentoo[cairo]
+# required by x11-libs/pango-1.50.3::gentoo
+# required by media-libs/gst-plugins-base-1.18.4-r1::gentoo[pango]
+# required by media-plugins/gst-plugins-cdparanoia-1.18.4::gentoo
+# required by media-plugins/gst-plugins-meta-1.18.4::gentoo[cdda]
+# required by app-emulation/wine-staging-7.1::gentoo[gstreamer]
+# required by wine-staging (argument)
+>=dev-libs/lzo-2.10 abi_x86_32
+# required by x11-libs/cairo-1.16.0-r5::gentoo
+# required by media-libs/harfbuzz-3.2.0::gentoo[cairo]
+# required by x11-libs/pango-1.50.3::gentoo
+# required by media-libs/gst-plugins-base-1.18.4-r1::gentoo[pango]
+# required by media-plugins/gst-plugins-cdparanoia-1.18.4::gentoo
+# required by media-plugins/gst-plugins-meta-1.18.4::gentoo[cdda]
+# required by app-emulation/wine-staging-7.1::gentoo[gstreamer]
+# required by wine-staging (argument)
+>=sys-libs/binutils-libs-2.37_p1-r2 abi_x86_32
+# required by x11-libs/cairo-1.16.0-r5::gentoo
+# required by media-libs/harfbuzz-3.2.0::gentoo[cairo]
+# required by x11-libs/pango-1.50.3::gentoo
+# required by media-libs/gst-plugins-base-1.18.4-r1::gentoo[pango]
+# required by media-plugins/gst-plugins-cdparanoia-1.18.4::gentoo
+# required by media-plugins/gst-plugins-meta-1.18.4::gentoo[cdda]
+# required by app-emulation/wine-staging-7.1::gentoo[gstreamer]
+# required by wine-staging (argument)
+>=x11-libs/pixman-0.40.0 abi_x86_32
+# required by x11-libs/libXcursor-1.2.0::gentoo
+# required by media-libs/libsdl2-2.0.20-r1::gentoo[X]
+# required by media-sound/mpg123-1.29.3::gentoo[sdl]
+# required by media-plugins/gst-plugins-mpg123-1.18.4::gentoo
+# required by media-plugins/gst-plugins-meta-1.18.4::gentoo[mp3]
+# required by app-emulation/wine-staging-7.1::gentoo[gstreamer]
+# required by wine-staging (argument)
+>=x11-libs/libXrender-0.9.10-r2 abi_x86_32
+# required by gnome-base/librsvg-2.52.5::gentoo
+# required by media-video/ffmpeg-4.4.1-r1::gentoo[svg]
+# required by media-plugins/gst-plugins-libav-1.18.4::gentoo
+# required by media-plugins/gst-plugins-meta-1.18.4::gentoo[ffmpeg]
+# required by app-emulation/wine-staging-7.1::gentoo[gstreamer]
+# required by wine-staging (argument)
+>=x11-libs/gdk-pixbuf-2.42.6-r1 abi_x86_32
+# required by x11-libs/pango-1.50.3::gentoo
+# required by media-libs/gst-plugins-base-1.18.4-r1::gentoo[pango]
+# required by media-plugins/gst-plugins-cdparanoia-1.18.4::gentoo
+# required by media-plugins/gst-plugins-meta-1.18.4::gentoo[cdda]
+# required by app-emulation/wine-staging-7.1::gentoo[gstreamer]
+# required by wine-staging (argument)
+>=media-libs/harfbuzz-3.2.0 abi_x86_32
+# required by gnome-base/librsvg-2.52.5::gentoo
+# required by media-video/ffmpeg-4.4.1-r1::gentoo[svg]
+# required by media-plugins/gst-plugins-libav-1.18.4::gentoo
+# required by media-plugins/gst-plugins-meta-1.18.4::gentoo[ffmpeg]
+# required by app-emulation/wine-staging-7.1::gentoo[gstreamer]
+# required by wine-staging (argument)
+>=x11-libs/pango-1.50.3 abi_x86_32
+# required by x11-libs/pango-1.50.3::gentoo
+# required by media-libs/gst-plugins-base-1.18.4-r1::gentoo[pango]
+# required by media-plugins/gst-plugins-cdparanoia-1.18.4::gentoo
+# required by media-plugins/gst-plugins-meta-1.18.4::gentoo[cdda]
+# required by app-emulation/wine-staging-7.1::gentoo[gstreamer]
+# required by wine-staging (argument)
+>=dev-libs/fribidi-1.0.11 abi_x86_32
+# required by x11-libs/pango-1.50.3::gentoo[X]
+# required by media-libs/gst-plugins-base-1.18.4-r1::gentoo[pango]
+# required by media-plugins/gst-plugins-cdparanoia-1.18.4::gentoo
+# required by media-plugins/gst-plugins-meta-1.18.4::gentoo[cdda]
+# required by app-emulation/wine-staging-7.1::gentoo[gstreamer]
+# required by wine-staging (argument)
+>=x11-libs/libXft-2.3.4 abi_x86_32
+# required by x11-libs/pango-1.50.3::gentoo[sysprof]
+# required by media-libs/gst-plugins-base-1.18.4-r1::gentoo[pango]
+# required by media-plugins/gst-plugins-cdparanoia-1.18.4::gentoo
+# required by media-plugins/gst-plugins-meta-1.18.4::gentoo[cdda]
+# required by app-emulation/wine-staging-7.1::gentoo[gstreamer]
+# required by wine-staging (argument)
+>=dev-util/sysprof-capture-3.42.1 abi_x86_32
+# required by media-libs/harfbuzz-3.2.0::gentoo[graphite]
+# required by x11-libs/pango-1.50.3::gentoo
+# required by media-libs/gst-plugins-base-1.18.4-r1::gentoo[pango]
+# required by media-plugins/gst-plugins-cdparanoia-1.18.4::gentoo
+# required by media-plugins/gst-plugins-meta-1.18.4::gentoo[cdda]
+# required by app-emulation/wine-staging-7.1::gentoo[gstreamer]
+# required by wine-staging (argument)
+>=media-gfx/graphite2-1.3.14_p20210810-r1 abi_x86_32
+# required by x11-libs/gdk-pixbuf-2.42.6-r1::gentoo[tiff]
+# required by gnome-base/librsvg-2.52.5::gentoo
+# required by media-video/ffmpeg-4.4.1-r1::gentoo[svg]
+# required by media-plugins/gst-plugins-libav-1.18.4::gentoo
+# required by media-plugins/gst-plugins-meta-1.18.4::gentoo[ffmpeg]
+# required by app-emulation/wine-staging-7.1::gentoo[gstreamer]
+# required by wine-staging (argument)
+>=media-libs/tiff-4.3.0 abi_x86_32
+# required by net-libs/libssh-0.9.6::gentoo[-mbedtls,-gcrypt]
+# required by media-video/ffmpeg-4.4.1-r1::gentoo[ssh]
+# required by media-plugins/gst-plugins-libav-1.18.4::gentoo
+# required by media-plugins/gst-plugins-meta-1.18.4::gentoo[ffmpeg]
+# required by app-emulation/wine-staging-7.1::gentoo[gstreamer]
+# required by wine-staging (argument)
+>=dev-libs/openssl-1.1.1m abi_x86_32
+# required by dev-libs/glib-2.70.3::gentoo
+# required by media-plugins/gst-plugins-cdparanoia-1.18.4::gentoo
+# required by media-plugins/gst-plugins-meta-1.18.4::gentoo[cdda]
+# required by app-emulation/wine-staging-7.1::gentoo[gstreamer]
+# required by wine-staging (argument)
+>=dev-libs/libpcre-8.45 abi_x86_32
+# required by sys-apps/systemd-250.3::gentoo
+# required by virtual/libudev-232-r5::gentoo
+# required by dev-libs/libusb-1.0.24-r2::gentoo[udev]
+# required by virtual/libusb-1-r2::gentoo
+# required by app-emulation/wine-staging-7.1::gentoo[usb]
+# required by wine-staging (argument)
+>=sys-apps/util-linux-2.37.3-r1 abi_x86_32
+# required by media-plugins/gst-plugins-flac-1.18.4::gentoo
+# required by media-plugins/gst-plugins-meta-1.18.4::gentoo[flac]
+# required by app-emulation/wine-staging-7.1::gentoo[gstreamer]
+# required by wine-staging (argument)
+>=media-libs/flac-1.3.3-r1 abi_x86_32
+# required by media-plugins/gst-plugins-meta-1.18.4::gentoo
+# required by app-emulation/wine-staging-7.1::gentoo[gstreamer]
+# required by wine-staging (argument)
+>=media-libs/gst-plugins-base-1.18.4-r1 abi_x86_32
+# required by media-plugins/gst-plugins-flac-1.18.4::gentoo
+# required by media-plugins/gst-plugins-meta-1.18.4::gentoo[flac]
+# required by app-emulation/wine-staging-7.1::gentoo[gstreamer]
+# required by wine-staging (argument)
+>=media-libs/gst-plugins-good-1.18.4 abi_x86_32
+# required by media-plugins/gst-plugins-meta-1.18.4::gentoo[a52,dvd]
+# required by app-emulation/wine-staging-7.1::gentoo[gstreamer]
+# required by wine-staging (argument)
+>=media-plugins/gst-plugins-a52dec-1.18.4 abi_x86_32
+# required by media-plugins/gst-plugins-meta-1.18.4::gentoo[aac]
+# required by app-emulation/wine-staging-7.1::gentoo[gstreamer]
+# required by wine-staging (argument)
+>=media-plugins/gst-plugins-faad-1.18.4 abi_x86_32
+# required by media-plugins/gst-plugins-meta-1.18.4::gentoo[dts]
+# required by app-emulation/wine-staging-7.1::gentoo[gstreamer]
+# required by wine-staging (argument)
+>=media-plugins/gst-plugins-dts-1.18.4 abi_x86_32
+# required by media-plugins/gst-plugins-a52dec-1.18.4::gentoo
+# required by media-plugins/gst-plugins-meta-1.18.4::gentoo[a52,dvd]
+# required by app-emulation/wine-staging-7.1::gentoo[gstreamer]
+# required by wine-staging (argument)
+>=media-libs/gst-plugins-ugly-1.18.4 abi_x86_32
+# required by media-plugins/gst-plugins-meta-1.18.4::gentoo[dvd]
+# required by app-emulation/wine-staging-7.1::gentoo[gstreamer]
+# required by wine-staging (argument)
+>=media-plugins/gst-plugins-dvdread-1.18.4 abi_x86_32
+# required by media-plugins/gst-plugins-meta-1.18.4::gentoo[mpeg,dvd,-vcd]
+# required by app-emulation/wine-staging-7.1::gentoo[gstreamer]
+# required by wine-staging (argument)
+>=media-plugins/gst-plugins-mpeg2dec-1.18.4 abi_x86_32
+# required by media-plugins/gst-plugins-meta-1.18.4::gentoo[dvd]
+# required by app-emulation/wine-staging-7.1::gentoo[gstreamer]
+# required by wine-staging (argument)
+>=media-plugins/gst-plugins-resindvd-1.18.4 abi_x86_32
+# required by media-plugins/gst-plugins-meta-1.18.4::gentoo[ffmpeg]
+# required by app-emulation/wine-staging-7.1::gentoo[gstreamer]
+# required by wine-staging (argument)
+>=media-plugins/gst-plugins-libav-1.18.4 abi_x86_32
+# required by media-plugins/gst-plugins-meta-1.18.4::gentoo[flac]
+# required by app-emulation/wine-staging-7.1::gentoo[gstreamer]
+# required by wine-staging (argument)
+>=media-plugins/gst-plugins-flac-1.18.4 abi_x86_32
+# required by media-plugins/gst-plugins-meta-1.18.4::gentoo[mp3]
+# required by app-emulation/wine-staging-7.1::gentoo[gstreamer]
+# required by wine-staging (argument)
+>=media-plugins/gst-plugins-mpg123-1.18.4 abi_x86_32
+# required by media-plugins/gst-plugins-meta-1.18.4::gentoo[pulseaudio]
+# required by app-emulation/wine-staging-7.1::gentoo[gstreamer]
+# required by wine-staging (argument)
+>=media-plugins/gst-plugins-pulse-1.18.4 abi_x86_32
+# required by media-plugins/gst-plugins-meta-1.18.4::gentoo[x264]
+# required by app-emulation/wine-staging-7.1::gentoo[gstreamer]
+# required by wine-staging (argument)
+>=media-plugins/gst-plugins-x264-1.18.4 abi_x86_32
+# required by media-plugins/gst-plugins-mpg123-1.18.4::gentoo
+# required by media-plugins/gst-plugins-meta-1.18.4::gentoo[mp3]
+# required by app-emulation/wine-staging-7.1::gentoo[gstreamer]
+# required by wine-staging (argument)
+>=media-sound/mpg123-1.29.3 abi_x86_32
+# required by media-plugins/gst-plugins-resindvd-1.18.4::gentoo
+# required by media-plugins/gst-plugins-meta-1.18.4::gentoo[dvd]
+# required by app-emulation/wine-staging-7.1::gentoo[gstreamer]
+# required by wine-staging (argument)
+>=media-libs/libdvdnav-6.1.1 abi_x86_32
+# required by media-libs/libdvdnav-6.1.1::gentoo
+# required by media-plugins/gst-plugins-resindvd-1.18.4::gentoo
+# required by media-plugins/gst-plugins-meta-1.18.4::gentoo[dvd]
+# required by app-emulation/wine-staging-7.1::gentoo[gstreamer]
+# required by wine-staging (argument)
+>=media-libs/libdvdread-6.1.2 abi_x86_32
+# required by media-plugins/gst-plugins-faad-1.18.4::gentoo
+# required by media-plugins/gst-plugins-meta-1.18.4::gentoo[aac]
+# required by app-emulation/wine-staging-7.1::gentoo[gstreamer]
+# required by wine-staging (argument)
+>=media-libs/gst-plugins-bad-1.18.4-r2 abi_x86_32
+# required by media-libs/gst-plugins-base-1.18.4-r1::gentoo[orc]
+# required by media-plugins/gst-plugins-cdparanoia-1.18.4::gentoo
+# required by media-plugins/gst-plugins-meta-1.18.4::gentoo[cdda]
+# required by app-emulation/wine-staging-7.1::gentoo[gstreamer]
+# required by wine-staging (argument)
+>=dev-lang/orc-0.4.31 abi_x86_32
+# required by media-libs/libdvdread-6.1.2::gentoo[css]
+# required by media-plugins/gst-plugins-dvdread-1.18.4::gentoo
+# required by media-plugins/gst-plugins-meta-1.18.4::gentoo[dvd]
+# required by app-emulation/wine-staging-7.1::gentoo[gstreamer]
+# required by wine-staging (argument)
+>=media-libs/libdvdcss-1.4.3 abi_x86_32
+# required by media-plugins/gst-plugins-mpeg2dec-1.18.4::gentoo
+# required by media-plugins/gst-plugins-meta-1.18.4::gentoo[mpeg,dvd,-vcd]
+# required by app-emulation/wine-staging-7.1::gentoo[gstreamer]
+# required by wine-staging (argument)
+>=media-libs/libmpeg2-0.5.1-r3 abi_x86_32
+# required by media-plugins/gst-plugins-dts-1.18.4::gentoo
+# required by media-plugins/gst-plugins-meta-1.18.4::gentoo[dts]
+# required by app-emulation/wine-staging-7.1::gentoo[gstreamer]
+# required by wine-staging (argument)
+>=media-libs/libdca-0.0.7 abi_x86_32
+# required by media-plugins/gst-plugins-faad-1.18.4::gentoo
+# required by media-plugins/gst-plugins-meta-1.18.4::gentoo[aac]
+# required by app-emulation/wine-staging-7.1::gentoo[gstreamer]
+# required by wine-staging (argument)
+>=media-libs/faad2-2.10.0 abi_x86_32
+# required by media-plugins/gst-plugins-a52dec-1.18.4::gentoo
+# required by media-plugins/gst-plugins-meta-1.18.4::gentoo[a52,dvd]
+# required by app-emulation/wine-staging-7.1::gentoo[gstreamer]
+# required by wine-staging (argument)
+>=media-libs/a52dec-0.7.4-r8 abi_x86_32
+# required by media-libs/gst-plugins-base-1.18.4-r1::gentoo[theora]
+# required by media-plugins/gst-plugins-cdparanoia-1.18.4::gentoo
+# required by media-plugins/gst-plugins-meta-1.18.4::gentoo[cdda]
+# required by app-emulation/wine-staging-7.1::gentoo[gstreamer]
+# required by wine-staging (argument)
+>=media-libs/libtheora-1.1.1-r2 abi_x86_32
+# required by media-libs/gst-plugins-base-1.18.4-r1::gentoo[-gles2,opengl]
+# required by media-plugins/gst-plugins-cdparanoia-1.18.4::gentoo
+# required by media-plugins/gst-plugins-meta-1.18.4::gentoo[cdda]
+# required by app-emulation/wine-staging-7.1::gentoo[gstreamer]
+# required by wine-staging (argument)
+>=media-libs/graphene-1.10.6-r1 abi_x86_32
+# required by sys-apps/systemd-250.3::gentoo
+# required by virtual/libudev-232-r5::gentoo
+# required by dev-libs/libusb-1.0.24-r2::gentoo[udev]
+# required by virtual/libusb-1-r2::gentoo
+# required by app-emulation/wine-staging-7.1::gentoo[usb]
+# required by wine-staging (argument)
+>=sys-libs/libcap-2.63 abi_x86_32
+# required by sys-apps/systemd-250.3::gentoo[pam]
+# required by virtual/libudev-232-r5::gentoo
+# required by dev-libs/libusb-1.0.24-r2::gentoo[udev]
+# required by virtual/libusb-1-r2::gentoo
+# required by app-emulation/wine-staging-7.1::gentoo[usb]
+# required by wine-staging (argument)
+>=sys-libs/pam-1.5.2-r1 abi_x86_32
+# required by sys-devel/gettext-0.21-r1::gentoo
+# required by dev-libs/libgpg-error-1.44::gentoo[nls]
+# required by dev-libs/libgcrypt-1.9.4::gentoo
+# required by sys-apps/systemd-250.3::gentoo[gcrypt]
+# required by virtual/libudev-232-r5::gentoo
+# required by dev-libs/libusb-1.0.24-r2::gentoo[udev]
+# required by virtual/libusb-1-r2::gentoo
+# required by app-emulation/wine-staging-7.1::gentoo[usb]
+# required by wine-staging (argument)
+>=virtual/libintl-0-r2 abi_x86_32
+# required by sys-libs/pam-1.5.2-r1::gentoo
+# required by sys-apps/systemd-250.3::gentoo[pam]
+# required by virtual/libudev-232-r5::gentoo
+# required by dev-libs/libusb-1.0.24-r2::gentoo[udev]
+# required by virtual/libusb-1-r2::gentoo
+# required by app-emulation/wine-staging-7.1::gentoo[usb]
+# required by wine-staging (argument)
+>=virtual/libcrypt-2 abi_x86_32
+# required by virtual/libcrypt-2::gentoo
+# required by sys-apps/systemd-250.3::gentoo
+# required by virtual/libudev-232-r5::gentoo
+# required by dev-libs/libusb-1.0.24-r2::gentoo[udev]
+# required by virtual/libusb-1-r2::gentoo
+# required by app-emulation/wine-staging-7.1::gentoo[usb]
+# required by wine-staging (argument)
+>=sys-libs/libxcrypt-4.4.27 abi_x86_32
+# required by media-libs/tiff-4.3.0::gentoo[jpeg]
+# required by x11-libs/gdk-pixbuf-2.42.6-r1::gentoo[tiff]
+# required by gnome-base/librsvg-2.52.5::gentoo
+# required by media-video/ffmpeg-4.4.1-r1::gentoo[svg]
+# required by media-plugins/gst-plugins-libav-1.18.4::gentoo
+# required by media-plugins/gst-plugins-meta-1.18.4::gentoo[ffmpeg]
+# required by app-emulation/wine-staging-7.1::gentoo[gstreamer]
+# required by wine-staging (argument)
+>=virtual/jpeg-100 abi_x86_32
+# required by virtual/jpeg-100::gentoo
+# required by x11-libs/gdk-pixbuf-2.42.6-r1::gentoo[jpeg]
+# required by gnome-base/librsvg-2.52.5::gentoo
+# required by media-video/ffmpeg-4.4.1-r1::gentoo[svg]
+# required by media-plugins/gst-plugins-libav-1.18.4::gentoo
+# required by media-plugins/gst-plugins-meta-1.18.4::gentoo[ffmpeg]
+# required by app-emulation/wine-staging-7.1::gentoo[gstreamer]
+# required by wine-staging (argument)
+>=media-libs/libjpeg-turbo-2.1.2-r1 abi_x86_32
+# required by media-plugins/gst-plugins-meta-1.18.4::gentoo[cdda]
+# required by app-emulation/wine-staging-7.1::gentoo[gstreamer]
+# required by wine-staging (argument)
+>=media-plugins/gst-plugins-cdparanoia-1.18.4 abi_x86_32
+# required by media-plugins/gst-plugins-cdparanoia-1.18.4::gentoo
+# required by media-plugins/gst-plugins-meta-1.18.4::gentoo[cdda]
+# required by app-emulation/wine-staging-7.1::gentoo[gstreamer]
+# required by wine-staging (argument)
+>=media-sound/cdparanoia-3.10.2-r7 abi_x86_32
+# required by dev-libs/glib-2.70.3::gentoo
+# required by media-plugins/gst-plugins-cdparanoia-1.18.4::gentoo
+# required by media-plugins/gst-plugins-meta-1.18.4::gentoo[cdda]
+# required by app-emulation/wine-staging-7.1::gentoo[gstreamer]
+# required by wine-staging (argument)
+>=virtual/libiconv-0-r2 abi_x86_32
+# required by gnome-base/librsvg-2.52.5::gentoo
+# required by media-video/ffmpeg-4.4.1-r1::gentoo[svg]
+# required by media-plugins/gst-plugins-libav-1.18.4::gentoo
+# required by media-plugins/gst-plugins-meta-1.18.4::gentoo[ffmpeg]
+# required by app-emulation/wine-staging-7.1::gentoo[gstreamer]
+# required by wine-staging (argument)
+>=virtual/rust-1.58.1 abi_x86_32
+# required by virtual/rust-1.58.1::gentoo
+# required by gnome-base/librsvg-2.52.5::gentoo
+# required by media-video/ffmpeg-4.4.1-r1::gentoo[svg]
+# required by media-plugins/gst-plugins-libav-1.18.4::gentoo
+# required by media-plugins/gst-plugins-meta-1.18.4::gentoo[ffmpeg]
+# required by app-emulation/wine-staging-7.1::gentoo[gstreamer]
+# required by wine-staging (argument)
+>=dev-lang/rust-bin-1.58.1 abi_x86_32
+# required by media-libs/glu-9.0.2::gentoo
+# required by virtual/glu-9.0-r2::gentoo
+# required by media-libs/libsdl2-2.0.20-r1::gentoo[opengl]
+# required by media-sound/mpg123-1.29.3::gentoo[sdl]
+# required by media-plugins/gst-plugins-mpg123-1.18.4::gentoo
+# required by media-plugins/gst-plugins-meta-1.18.4::gentoo[mp3]
+# required by app-emulation/wine-staging-7.1::gentoo[gstreamer]
+# required by wine-staging (argument)
+>=virtual/opengl-7.0-r2 abi_x86_32
+# required by media-libs/mesa-21.3.5::gentoo[-video_cards_r600,llvm,-opencl,video_cards_radeon,gallium,video_cards_radeonsi]
+# required by virtual/opengl-7.0-r2::gentoo
+# required by app-emulation/wine-staging-7.1::gentoo[opengl]
+# required by wine-staging (argument)
+# required by media-libs/libsdl2-2.0.20-r1::gentoo[opengl]
+# required by media-sound/mpg123-1.29.3::gentoo[sdl]
+# required by media-plugins/gst-plugins-mpg123-1.18.4::gentoo
+# required by media-plugins/gst-plugins-meta-1.18.4::gentoo[mp3]
+# required by app-emulation/wine-staging-7.1::gentoo[gstreamer]
+# required by wine-staging (argument)
+>=virtual/glu-9.0-r2 abi_x86_32
+# required by dev-libs/libusb-1.0.24-r2::gentoo[udev]
+# required by virtual/libusb-1-r2::gentoo
+# required by app-emulation/wine-staging-7.1::gentoo[usb]
+# required by wine-staging (argument)
+>=virtual/libudev-232-r5 abi_x86_32
+# required by virtual/libudev-232-r5::gentoo
+# required by dev-libs/libusb-1.0.24-r2::gentoo[udev]
+# required by virtual/libusb-1-r2::gentoo
+# required by app-emulation/wine-staging-7.1::gentoo[usb]
+# required by wine-staging (argument)
+>=sys-apps/systemd-250.3 abi_x86_32
+# required by sys-apps/systemd-250.3::gentoo[gcrypt]
+# required by virtual/libudev-232-r5::gentoo
+# required by dev-libs/libusb-1.0.24-r2::gentoo[udev]
+# required by virtual/libusb-1-r2::gentoo
+# required by app-emulation/wine-staging-7.1::gentoo[usb]
+# required by wine-staging (argument)
+>=dev-libs/libgcrypt-1.9.4 abi_x86_32
+# required by sys-apps/systemd-250.3::gentoo[lz4]
+# required by virtual/libudev-232-r5::gentoo
+# required by dev-libs/libusb-1.0.24-r2::gentoo[udev]
+# required by virtual/libusb-1-r2::gentoo
+# required by app-emulation/wine-staging-7.1::gentoo[usb]
+# required by wine-staging (argument)
+>=dev-python/PyQt5-5.15.6 webchannel
+# required by dev-python/PyQtWebEngine-5.15.4::gentoo
+# required by app-text/calibre-5.16.1-r1::gentoo[python_single_target_python3_9]
+# required by @selected
+# required by @world (argument)
+=dev-python/PyQt5-5.15.4-r1 webchannel
+# required by app-shells/fish-3.3.1-r1::gentoo
+# required by fish (argument)
+>=dev-libs/libpcre2-10.39-r1 pcre32
+# required by xfce-base/xfce4-panel-4.16.3::gentoo[dbusmenu]
+# required by xfce-extra/xfce4-power-manager-4.16.0::gentoo[panel-plugin]
+# required by xfce-extra/xfce4-power-manager (argument)
+>=dev-libs/libdbusmenu-16.04.0-r1 gtk3
+# required by dev-ruby/metasploit_data_models-4.1.1::pentoo[ruby_targets_ruby26]
+# required by dev-ruby/metasploit-credential-4.0.3::pentoo[ruby_targets_ruby26]
+# required by net-analyzer/metasploit-6.0.50::pentoo[ruby_targets_ruby26,-test]
+# required by net-analyzer/metasploit (argument)
+>=dev-ruby/activerecord-5.2.7:5.2 postgres
+# required by dev-ruby/metasploit_data_models-4.1.1::pentoo[ruby_targets_ruby26]
+# required by dev-ruby/metasploit-credential-4.0.3::pentoo[ruby_targets_ruby26]
+# required by net-analyzer/metasploit-6.0.50::pentoo[-test,ruby_targets_ruby26]
+# required by net-analyzer/metasploit (argument)
+=dev-ruby/activerecord-5.2.6.2 postgres
+# required by dev-ruby/metasploit_data_models-4.1.1::pentoo[ruby_targets_ruby26]
+# required by dev-ruby/metasploit-credential-4.0.3::pentoo[ruby_targets_ruby26]
+# required by net-analyzer/metasploit-6.0.50::pentoo[-test,ruby_targets_ruby26]
+# required by net-analyzer/metasploit (argument)
+=dev-ruby/activerecord-5.2.6 postgres
+# required by x11-libs/libXdmcp-1.1.3-r1::gentoo
+# required by x11-base/xwayland-22.1.1::gentoo
+# required by kde-plasma/kwin-5.24.5-r2::gentoo
+# required by kde-plasma/plasma-desktop-5.24.5::gentoo
+# required by kde-plasma/plasma-meta-5.24.5::gentoo
+# required by @selected
+# required by @world (argument)
+>=dev-libs/libbsd-0.11.6 abi_x86_32
+# required by media-video/ffmpeg-4.4.1-r5::gentoo[vulkan]
+# required by media-video/vlc-3.0.17.3-r2::gentoo[ffmpeg]
+# required by media-libs/phonon-vlc-0.11.3-r1::gentoo
+# required by media-libs/phonon-4.11.1-r1::gentoo[vlc]
+# required by kde-plasma/plasma-desktop-5.24.5::gentoo
+# required by kde-plasma/plasma-meta-5.24.5::gentoo
+# required by @selected
+# required by @world (argument)
+>=media-libs/vulkan-loader-1.3.204 abi_x86_32
+# required by kde-plasma/kwin-5.24.5-r2::gentoo
+# required by kde-plasma/plasma-desktop-5.24.5::gentoo
+# required by kde-plasma/plasma-meta-5.24.5::gentoo
+# required by @selected
+# required by @world (argument)
+>=media-libs/mesa-22.0.3 wayland
+# required by x11-drivers/xf86-video-amdgpu-22.0.0::gentoo
+# required by @x11-module-rebuild (argument)
+>=x11-libs/libdrm-2.4.110 video_cards_amdgpu
+# required by dev-libs/libgcrypt-1.9.4-r1::gentoo
+# required by app-crypt/gnupg-2.2.35::gentoo
+# required by dev-vcs/git-2.35.1::gentoo[gpg]
+# required by dev-ruby/bundler-2.1.4-r1::pentoo
+# required by dev-lang/ruby-2.7.6::gentoo
+# required by virtual/ruby-ssl-11::gentoo[ruby_targets_ruby27]
+# required by dev-ruby/racc-1.4.16-r1::gentoo[ruby_targets_ruby27]
+# required by dev-ruby/rdoc-6.3.2::gentoo[ruby_targets_ruby27]
+>=dev-libs/libgpg-error-1.45 abi_x86_32
+# required by media-sound/pulseaudio-16.0::gentoo
+# required by dev-qt/qtwebengine-5.15.4_p20220526::gentoo[pulseaudio]
+# required by @selected
+# required by @world (argument)
+>=media-libs/libpulse-16.0 abi_x86_32
+# required by dev-ruby/rdoc-6.4.0::gentoo[ruby_targets_ruby30]
+# required by dev-lang/ruby-3.1.2-r1::gentoo[rdoc]
+# required by virtual/ruby-ssl-12::gentoo[ruby_targets_ruby31]
+# required by dev-ruby/racc-1.6.0::gentoo
+>=dev-ruby/psych-4.0.4 ruby_targets_ruby30
+# required by dev-ruby/psych-4.0.4::gentoo[ruby_targets_ruby30]
+# required by dev-ruby/rdoc-6.4.0::gentoo[ruby_targets_ruby30]
+# required by dev-lang/ruby-3.1.2-r1::gentoo[rdoc]
+# required by virtual/ruby-ssl-12::gentoo[ruby_targets_ruby31]
+# required by dev-ruby/racc-1.6.0::gentoo
+>=dev-ruby/stringio-3.0.2 ruby_targets_ruby30
+# required by dev-lang/ruby-3.1.2-r1::gentoo
+# required by virtual/ruby-ssl-12::gentoo[ruby_targets_ruby31]
+# required by dev-ruby/racc-1.6.0::gentoo
+# required by dev-ruby/rdoc-6.4.0::gentoo[ruby_targets_ruby27]
+# required by dev-lang/ruby-3.0.4::gentoo[rdoc]
+# required by dev-ruby/rubygems-3.3.8::gentoo[ruby_targets_ruby30]
+# required by virtual/rubygems-17::gentoo[ruby_targets_ruby30]
+# required by dev-ruby/gnuplot-2.6.2-r3::gentoo
+# required by @selected
+# required by @world (argument)
+>=dev-ruby/minitest-5.16.1 ruby_targets_ruby31
+# required by dev-lang/ruby-3.1.2-r1::gentoo
+# required by virtual/ruby-ssl-12::gentoo[ruby_targets_ruby31]
+# required by dev-ruby/racc-1.6.0::gentoo
+# required by dev-ruby/rdoc-6.4.0::gentoo[ruby_targets_ruby27]
+# required by dev-lang/ruby-3.0.4::gentoo[rdoc]
+# required by dev-ruby/rubygems-3.3.8::gentoo[ruby_targets_ruby30]
+# required by virtual/rubygems-17::gentoo[ruby_targets_ruby30]
+# required by dev-ruby/gnuplot-2.6.2-r3::gentoo
+# required by @selected
+# required by @world (argument)
+>=dev-ruby/power_assert-2.0.1 ruby_targets_ruby31
+# required by dev-lang/ruby-3.1.2-r1::gentoo
+# required by virtual/ruby-ssl-12::gentoo[ruby_targets_ruby31]
+# required by dev-ruby/racc-1.6.0::gentoo
+# required by dev-ruby/rdoc-6.4.0::gentoo[ruby_targets_ruby27]
+# required by dev-lang/ruby-3.0.4::gentoo[rdoc]
+# required by dev-ruby/rubygems-3.3.8::gentoo[ruby_targets_ruby30]
+# required by virtual/rubygems-17::gentoo[ruby_targets_ruby30]
+# required by dev-ruby/gnuplot-2.6.2-r3::gentoo
+# required by @selected
+# required by @world (argument)
+>=dev-ruby/rake-13.0.6-r1 ruby_targets_ruby31
+# required by dev-lang/ruby-3.1.2-r1::gentoo
+# required by virtual/ruby-ssl-12::gentoo[ruby_targets_ruby31]
+# required by dev-ruby/racc-1.6.0::gentoo
+# required by dev-ruby/rdoc-6.4.0::gentoo[ruby_targets_ruby27]
+# required by dev-lang/ruby-3.0.4::gentoo[rdoc]
+# required by dev-ruby/rubygems-3.3.8::gentoo[ruby_targets_ruby30]
+# required by virtual/rubygems-17::gentoo[ruby_targets_ruby30]
+# required by dev-ruby/gnuplot-2.6.2-r3::gentoo
+# required by @selected
+# required by @world (argument)
+>=dev-ruby/rbs-2.5.1 ruby_targets_ruby31
+# required by dev-lang/ruby-3.1.2-r1::gentoo
+# required by virtual/ruby-ssl-12::gentoo[ruby_targets_ruby31]
+# required by dev-ruby/racc-1.6.0::gentoo
+# required by dev-ruby/rdoc-6.4.0::gentoo[ruby_targets_ruby27]
+# required by dev-lang/ruby-3.0.4::gentoo[rdoc]
+# required by dev-ruby/rubygems-3.3.8::gentoo[ruby_targets_ruby30]
+# required by virtual/rubygems-17::gentoo[ruby_targets_ruby30]
+# required by dev-ruby/gnuplot-2.6.2-r3::gentoo
+# required by @selected
+# required by @world (argument)
+>=dev-ruby/rexml-3.2.5-r1 ruby_targets_ruby31
+# required by dev-lang/ruby-3.1.2-r1::gentoo
+# required by virtual/ruby-ssl-12::gentoo[ruby_targets_ruby31]
+# required by dev-ruby/racc-1.6.0::gentoo
+# required by dev-ruby/rdoc-6.4.0::gentoo[ruby_targets_ruby27]
+# required by dev-lang/ruby-3.0.4::gentoo[rdoc]
+# required by dev-ruby/rubygems-3.3.8::gentoo[ruby_targets_ruby30]
+# required by virtual/rubygems-17::gentoo[ruby_targets_ruby30]
+# required by dev-ruby/gnuplot-2.6.2-r3::gentoo
+# required by @selected
+# required by @world (argument)
+>=dev-ruby/rss-0.2.9-r1 ruby_targets_ruby31
+# required by dev-lang/ruby-3.1.2-r1::gentoo
+# required by virtual/ruby-ssl-12::gentoo[ruby_targets_ruby31]
+# required by dev-ruby/racc-1.6.0::gentoo
+# required by dev-ruby/rdoc-6.4.0::gentoo[ruby_targets_ruby27]
+# required by dev-lang/ruby-3.0.4::gentoo[rdoc]
+# required by dev-ruby/rubygems-3.3.8::gentoo[ruby_targets_ruby30]
+# required by virtual/rubygems-17::gentoo[ruby_targets_ruby30]
+# required by dev-ruby/gnuplot-2.6.2-r3::gentoo
+# required by @selected
+# required by @world (argument)
+>=dev-ruby/test-unit-3.5.3 ruby_targets_ruby31
+# required by dev-lang/ruby-3.1.2-r1::gentoo
+# required by virtual/ruby-ssl-12::gentoo[ruby_targets_ruby31]
+# required by dev-ruby/racc-1.6.0::gentoo
+# required by dev-ruby/rdoc-6.4.0::gentoo[ruby_targets_ruby27]
+# required by dev-lang/ruby-3.0.4::gentoo[rdoc]
+# required by dev-ruby/rubygems-3.3.8::gentoo[ruby_targets_ruby30]
+# required by virtual/rubygems-17::gentoo[ruby_targets_ruby30]
+# required by dev-ruby/gnuplot-2.6.2-r3::gentoo
+# required by @selected
+# required by @world (argument)
+>=dev-ruby/typeprof-0.21.2 ruby_targets_ruby31
+# required by dev-lang/ruby-3.1.2-r1::gentoo
+# required by virtual/ruby-ssl-12::gentoo[ruby_targets_ruby31]
+# required by dev-ruby/racc-1.6.0::gentoo
+# required by dev-ruby/rdoc-6.4.0::gentoo[ruby_targets_ruby27]
+# required by dev-lang/ruby-3.0.4::gentoo[rdoc]
+# required by dev-ruby/rubygems-3.3.8::gentoo[ruby_targets_ruby30]
+# required by virtual/rubygems-17::gentoo[ruby_targets_ruby30]
+# required by dev-ruby/gnuplot-2.6.2-r3::gentoo
+# required by @selected
+# required by @world (argument)
+>=dev-ruby/bundler-2.3.8 ruby_targets_ruby31
+# required by dev-lang/ruby-3.1.2-r1::gentoo
+# required by virtual/ruby-ssl-12::gentoo[ruby_targets_ruby31]
+# required by dev-ruby/racc-1.6.0::gentoo
+# required by dev-ruby/rdoc-6.4.0::gentoo[ruby_targets_ruby27]
+# required by dev-lang/ruby-3.0.4::gentoo[rdoc]
+# required by dev-ruby/rubygems-3.3.8::gentoo[ruby_targets_ruby30]
+# required by virtual/rubygems-17::gentoo[ruby_targets_ruby30]
+# required by dev-ruby/gnuplot-2.6.2-r3::gentoo
+# required by @selected
+# required by @world (argument)
+>=dev-ruby/did_you_mean-1.6.1 ruby_targets_ruby31
+# required by dev-lang/ruby-3.1.2-r1::gentoo
+# required by virtual/ruby-ssl-12::gentoo[ruby_targets_ruby31]
+# required by dev-ruby/racc-1.6.0::gentoo
+# required by dev-ruby/rdoc-6.4.0::gentoo[ruby_targets_ruby27]
+# required by dev-lang/ruby-3.0.4::gentoo[rdoc]
+# required by dev-ruby/rubygems-3.3.8::gentoo[ruby_targets_ruby30]
+# required by virtual/rubygems-17::gentoo[ruby_targets_ruby30]
+# required by dev-ruby/gnuplot-2.6.2-r3::gentoo
+# required by @selected
+# required by @world (argument)
+>=dev-ruby/json-2.6.2 ruby_targets_ruby31
+# required by dev-lang/ruby-3.1.2-r1::gentoo[rdoc]
+# required by virtual/ruby-ssl-12::gentoo[ruby_targets_ruby31]
+# required by dev-ruby/racc-1.6.0::gentoo
+>=dev-ruby/rdoc-6.4.0 ruby_targets_ruby31
+# required by dev-lang/ruby-3.1.2-r1::gentoo
+# required by virtual/ruby-ssl-12::gentoo[ruby_targets_ruby31]
+# required by dev-ruby/racc-1.6.0::gentoo
+# required by dev-ruby/rdoc-6.4.0::gentoo[ruby_targets_ruby27]
+# required by dev-lang/ruby-3.0.4::gentoo[rdoc]
+# required by dev-ruby/rubygems-3.3.8::gentoo[ruby_targets_ruby30]
+>=virtual/rubygems-17 ruby_targets_ruby31
+# required by virtual/rubygems-17::gentoo[ruby_targets_ruby31]
+# required by dev-ruby/gnuplot-2.6.2-r3::gentoo
+# required by @selected
+# required by @world (argument)
+>=dev-ruby/rubygems-3.3.8 ruby_targets_ruby31
+# required by dev-ruby/rubygems-3.3.8::gentoo[ruby_targets_ruby31]
+# required by virtual/rubygems-17::gentoo[ruby_targets_ruby30]
+# required by dev-ruby/gnuplot-2.6.2-r3::gentoo
+# required by @selected
+# required by @world (argument)
+>=virtual/ruby-ssl-12 ruby_targets_ruby31
+# required by dev-ruby/rdoc-6.4.0::gentoo[ruby_targets_ruby31]
+# required by dev-lang/ruby-3.1.2-r1::gentoo[rdoc]
+# required by virtual/ruby-ssl-12::gentoo[ruby_targets_ruby31]
+# required by dev-ruby/racc-1.6.0::gentoo[ruby_targets_ruby27]
+>=dev-ruby/psych-4.0.4 ruby_targets_ruby31
+# required by dev-ruby/rdoc-6.4.0::gentoo[ruby_targets_ruby31]
+# required by dev-lang/ruby-3.1.2-r1::gentoo[rdoc]
+# required by virtual/ruby-ssl-12::gentoo[ruby_targets_ruby31]
+# required by dev-ruby/racc-1.6.0::gentoo[ruby_targets_ruby27]
+>=dev-ruby/kpeg-1.3.1 ruby_targets_ruby31
+# required by dev-ruby/rdoc-6.4.0::gentoo[ruby_targets_ruby31]
+# required by dev-lang/ruby-3.1.2-r1::gentoo[rdoc]
+# required by virtual/ruby-ssl-12::gentoo[ruby_targets_ruby31]
+# required by dev-ruby/rubygems-3.3.8::gentoo[ruby_targets_ruby27]
+# required by virtual/rubygems-17::gentoo[ruby_targets_ruby31]
+# required by dev-ruby/gnuplot-2.6.2-r3::gentoo
+# required by @selected
+# required by @world (argument)
+>=dev-ruby/racc-1.6.0 ruby_targets_ruby31
+# required by dev-ruby/psych-4.0.4::gentoo[ruby_targets_ruby31]
+# required by dev-ruby/rdoc-6.4.0::gentoo[ruby_targets_ruby30]
+# required by dev-lang/ruby-3.1.2-r1::gentoo[rdoc]
+# required by virtual/ruby-ssl-12::gentoo[ruby_targets_ruby31]
+# required by dev-ruby/racc-1.6.0::gentoo[ruby_targets_ruby27]
+>=dev-ruby/stringio-3.0.2 ruby_targets_ruby31
+# required by dev-lang/ruby-2.6.10::gentoo
+# required by virtual/ruby-ssl-12::gentoo[ruby_targets_ruby26]
+# required by dev-ruby/rubygems-3.3.8::gentoo[ruby_targets_ruby26]
+# required by virtual/rubygems-17::gentoo[ruby_targets_ruby26]
+# required by dev-ruby/json-2.6.2::gentoo[ruby_targets_ruby26,-test]
+>=dev-ruby/did_you_mean-1.6.1 ruby_targets_ruby26
+# required by dev-lang/ruby-2.6.10::gentoo
+# required by virtual/ruby-ssl-12::gentoo[ruby_targets_ruby26]
+# required by dev-ruby/rubygems-3.3.8::gentoo[ruby_targets_ruby26]
+# required by virtual/rubygems-17::gentoo[ruby_targets_ruby26]
+# required by dev-ruby/json-2.6.2::gentoo[ruby_targets_ruby26,-test]
+>=dev-ruby/minitest-5.16.1 ruby_targets_ruby26
+# required by dev-lang/ruby-2.6.10::gentoo
+# required by virtual/ruby-ssl-12::gentoo[ruby_targets_ruby26]
+# required by dev-ruby/rubygems-3.3.8::gentoo[ruby_targets_ruby26]
+# required by virtual/rubygems-17::gentoo[ruby_targets_ruby26]
+# required by dev-ruby/json-2.6.2::gentoo[ruby_targets_ruby26,-test]
+>=dev-ruby/net-telnet-0.2.0-r1 ruby_targets_ruby26
+# required by dev-lang/ruby-2.6.10::gentoo
+# required by virtual/ruby-ssl-12::gentoo[ruby_targets_ruby26]
+# required by dev-ruby/rubygems-3.3.8::gentoo[ruby_targets_ruby26]
+# required by virtual/rubygems-17::gentoo[ruby_targets_ruby26]
+# required by dev-ruby/json-2.6.2::gentoo[ruby_targets_ruby26,-test]
+>=dev-ruby/power_assert-2.0.1 ruby_targets_ruby26
+# required by dev-lang/ruby-2.6.10::gentoo
+# required by virtual/ruby-ssl-12::gentoo[ruby_targets_ruby26]
+# required by dev-ruby/rubygems-3.3.8::gentoo[ruby_targets_ruby26]
+# required by virtual/rubygems-17::gentoo[ruby_targets_ruby26]
+# required by dev-ruby/json-2.6.2::gentoo[ruby_targets_ruby26,-test]
+>=dev-ruby/rake-13.0.6-r1 ruby_targets_ruby26
+# required by dev-lang/ruby-2.6.10::gentoo
+# required by virtual/ruby-ssl-12::gentoo[ruby_targets_ruby26]
+# required by dev-ruby/rubygems-3.3.8::gentoo[ruby_targets_ruby26]
+# required by virtual/rubygems-17::gentoo[ruby_targets_ruby26]
+# required by dev-ruby/json-2.6.2::gentoo[ruby_targets_ruby26,-test]
+>=dev-ruby/test-unit-3.5.3 ruby_targets_ruby26
+# required by dev-lang/ruby-2.6.10::gentoo
+# required by virtual/ruby-ssl-12::gentoo[ruby_targets_ruby26]
+# required by dev-ruby/rubygems-3.3.8::gentoo[ruby_targets_ruby26]
+# required by virtual/rubygems-17::gentoo[ruby_targets_ruby26]
+# required by dev-ruby/json-2.6.2::gentoo[ruby_targets_ruby26,-test]
+>=dev-ruby/xmlrpc-0.3.2-r1 ruby_targets_ruby26
+# required by dev-lang/ruby-2.6.10::gentoo
+# required by virtual/ruby-ssl-12::gentoo[ruby_targets_ruby26]
+# required by dev-ruby/rubygems-3.3.8::gentoo[ruby_targets_ruby26]
+# required by virtual/rubygems-17::gentoo[ruby_targets_ruby26]
+# required by dev-ruby/json-2.6.2::gentoo[ruby_targets_ruby26,-test]
+>=dev-ruby/bundler-2.3.8 ruby_targets_ruby26
+# required by dev-lang/ruby-2.6.10::gentoo
+# required by virtual/ruby-ssl-12::gentoo[ruby_targets_ruby26]
+# required by dev-ruby/rubygems-3.3.8::gentoo[ruby_targets_ruby26]
+# required by virtual/rubygems-17::gentoo[ruby_targets_ruby26]
+# required by dev-ruby/bundler-2.3.8::gentoo[ruby_targets_ruby26,-test]
+>=dev-ruby/json-2.6.2 ruby_targets_ruby26
+# required by dev-lang/ruby-2.6.10::gentoo[rdoc]
+# required by virtual/ruby-ssl-12::gentoo[ruby_targets_ruby26]
+# required by dev-ruby/rubygems-3.3.8::gentoo[ruby_targets_ruby26]
+# required by virtual/rubygems-17::gentoo[ruby_targets_ruby26]
+# required by dev-ruby/json-2.6.2::gentoo[ruby_targets_ruby26,-test]
+>=dev-ruby/rdoc-6.4.0 ruby_targets_ruby26
+# required by dev-ruby/xmlrpc-0.3.2-r1::gentoo[ruby_targets_ruby26]
+# required by dev-lang/ruby-2.6.10::gentoo
+# required by virtual/ruby-ssl-12::gentoo[ruby_targets_ruby26]
+# required by dev-ruby/rubygems-3.3.8::gentoo[ruby_targets_ruby26]
+# required by virtual/rubygems-17::gentoo[ruby_targets_ruby26]
+# required by dev-ruby/json-2.6.2::gentoo[ruby_targets_ruby26,-test]
+>=dev-ruby/webrick-1.7.0-r1 ruby_targets_ruby26
+# required by dev-ruby/xmlrpc-0.3.2-r1::gentoo[ruby_targets_ruby26,-test]
+# required by dev-lang/ruby-2.6.10::gentoo
+# required by virtual/ruby-ssl-12::gentoo[ruby_targets_ruby26]
+# required by dev-ruby/rubygems-3.3.8::gentoo[ruby_targets_ruby26]
+>=virtual/rubygems-17 ruby_targets_ruby26
+# required by virtual/rubygems-17::gentoo[ruby_targets_ruby26]
+# required by dev-ruby/json-2.6.2::gentoo[ruby_targets_ruby26,-test]
+# required by dev-lang/ruby-2.6.10::gentoo
+# required by virtual/ruby-ssl-12::gentoo[ruby_targets_ruby26]
+>=dev-ruby/rubygems-3.3.8 ruby_targets_ruby26
+# required by dev-ruby/rubygems-3.3.8::gentoo[ruby_targets_ruby26]
+# required by virtual/rubygems-17::gentoo[ruby_targets_ruby26]
+# required by dev-ruby/json-2.6.2::gentoo[ruby_targets_ruby26,-test]
+# required by dev-lang/ruby-2.6.10::gentoo
+# required by dev-ruby/did_you_mean-1.6.1::gentoo[ruby_targets_ruby26]
+>=virtual/ruby-ssl-12 ruby_targets_ruby26
